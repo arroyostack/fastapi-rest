@@ -1,0 +1,6 @@
+# Linter
+ruff
+# Code formatter
+black
+# Sort imports
+isort 
